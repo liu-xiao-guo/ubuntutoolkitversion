@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=ubuntutoolkitversion
+Exec=ubuntutoolkitversion
+Icon=ubuntutoolkitversion/ubuntutoolkitversion.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

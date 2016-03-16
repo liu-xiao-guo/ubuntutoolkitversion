@@ -1,0 +1,17 @@
+{
+    "name": "ubuntutoolkitversion.liu-xiao-guo",
+    "description": "description of ubuntutoolkitversion",
+    "architecture": "@CLICK_ARCH@",
+    "title": "ubuntutoolkitversion",
+    "hooks": {
+        "ubuntutoolkitversion": {
+            "apparmor": "ubuntutoolkitversion/ubuntutoolkitversion.apparmor",
+            "desktop":  "ubuntutoolkitversion/ubuntutoolkitversion.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
